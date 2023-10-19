@@ -1,0 +1,56 @@
+body{
+    margin: 0;
+    background: rgb(255, 255, 255);
+    cursor: wait
+}
+
+
+header{
+    background: rgb(255, 247, 230);
+    text-align: center;
+    border: solid;
+    border-left: 0px;
+    border-right: 0px
+}
+
+
+.rogo{
+    width: 20%;
+}
+
+.main{
+    padding-left: 200px;
+    padding-right: 200px;
+}
+
+.unko{
+    margin-top: 60px;
+}
+
+.gomi{
+    text-align: center;
+}
+
+.red{
+    color: red;
+}
+
+.orange{
+    color: orange;
+}
+
+.yello{
+    color: yellow;
+}
+
+.green{
+    color: green;
+}
+
+.blue{
+    color: blue;
+}
+
+.purple{
+    color: purple;
+}
